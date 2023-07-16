@@ -1,2 +1,2 @@
-# Class1-of-web3
-This Class1 of web3 contain all 43 Projects for beginners
+https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md
+link for all the question
